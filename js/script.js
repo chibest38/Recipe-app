@@ -6,6 +6,6 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     event.preventDefault();
   } else {
     event.preventDefault();
-    window.location.href = 'welcome.html';
+    window.location.href = 'main.html';
   }
 });
